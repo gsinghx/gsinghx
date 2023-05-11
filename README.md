@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Design & Dev on Mobile & Web.
+
 <!--
 **gsinghx/gsinghx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
